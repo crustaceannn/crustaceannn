@@ -49,6 +49,7 @@ Currently working with NGS workflows, GWAS/PRS development, and cloud-native ana
 
 ## 📫 Contact
 - GitHub: https://github.com/crustaceannn
+- Linkedin: https://www.linkedin.com/in/eugene-sebastian/ 
 
 ---
 
