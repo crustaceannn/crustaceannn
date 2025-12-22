@@ -49,3 +49,9 @@ Currently working with NGS workflows, GWAS/PRS development, and cloud-native ana
 
 ## 📫 Contact
 - GitHub: https://github.com/crustaceannn
+
+---
+
+## 🎮 Outside of Work
+I enjoy video games, especially Pokémon.  
+Psyduck is my spirit Pokémon — confused most of the time, but capable of unexpected breakthroughs under pressure.
