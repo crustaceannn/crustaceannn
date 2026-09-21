@@ -18,6 +18,7 @@ Currently working with NGS workflows, GWAS/PRS development, and cloud-native ana
 
 ## 🧪 Technical Stack
 **Bioinformatics**
+- GWAS and PRS model development for wellness
 - WGS, NGS, 16S Metagenomics
 - Alignment, variant calling, QC, annotation
 - Platforms: Thermo Fisher, Illumina, ONT, MGI, Ion Torrent
@@ -30,7 +31,6 @@ Currently working with NGS workflows, GWAS/PRS development, and cloud-native ana
 ---
 
 ## 🧠 Current & Recent Projects
-- 🧠 **Stroke Risk Prediction App** — Streamlit-based ML demo
 - 🧬 **NGS QC Automation** — pipeline design & reporting workflows
 - 📊 **GWAS / PRS Pipelines** — data harmonization & scalable analysis
 - 🤖 **LLM-assisted Biomedical Analysis** — RAG evaluation for literature extraction
@@ -40,7 +40,7 @@ Currently working with NGS workflows, GWAS/PRS development, and cloud-native ana
 ---
 
 ## 🌍 Experience Highlights
-- Bioinformatics Officer & Data Scientist @ Kalbe Farma
+- Bioinformatics & Data Science Lead @ KALGen Innolab of Kalbe Group
 - Bioinformatics Operations @ Genomik Solidaritas Indonesia
 - Experience with production genomics pipelines & cross-functional teams
 - Workshop & training delivery in bioinformatics and AI
