@@ -1,7 +1,6 @@
 ## Hi there, I'm Eugene 👋
 
-Bioinformatics & Data Science engineer working at the intersection of genomics, cloud computing, and applied machine learning.  
-I focus on turning raw biological data into reproducible, scalable analysis pipelines and decision-ready outputs.
+Bioinformatics & Data Science Lead working at the intersection of genomics, data engineering, cloud computing, and applied AI.
 
 Currently working with NGS workflows, GWAS/PRS development, and cloud-native analytics.
 
